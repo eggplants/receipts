@@ -41,5 +41,5 @@ $ ./rltosvg <cpl int> <encoding> <import filepath> <export filepath>
 
 ```bash
 # japanese
-$ ./rltosvg.js 48 cp932 code.rl out.svg
+$ ./rltosvg 48 cp932 code.rl out.svg
 ```
