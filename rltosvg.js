@@ -1,7 +1,7 @@
 #!/usr/bin/node
 
 // $ npm -g install receiptline
-// $ ./rltosvg <cpl int> <import filepath> <export filepath>
+// $ ./rltosvg <cpl int> <encoding> <import filepath> <export filepath>
 
 // print args
 // console.log(process.argv);
