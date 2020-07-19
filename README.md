@@ -1,6 +1,6 @@
 # receipts
 
-- code examples for [receiptline](github.com/receiptline/receiptline)
+- code examples for [receiptline](https://github.com/receiptline/receiptline)
 
 ## list
 
