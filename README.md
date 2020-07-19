@@ -6,8 +6,10 @@
 
 - [macdonald](mac)
 
-## format
+## export
 
 ```bash
-cat out.svg | tidy -i -m > index.html
+$ npm install receiptline
+$ chmod +x rltosvg
+$ ./rltosvg <cpl int> <encoding> <import filepath> <export filepath>
 ```
