@@ -4,7 +4,7 @@
 
 ## list
 
-- [macdonald](mac)
+- [macdonald](mac/out.svg)
 
 ## export
 
